@@ -21,4 +21,7 @@ elif country == "美國":
     if age >= 16:
         print("你可以在美國考駕照")
     else:
-        print("你還不能在美國考駕照")        
+        print("你還不能在美國考駕照")
+else:
+    print("哪國人只能輸入 台灣 跟 美國")
+                    
